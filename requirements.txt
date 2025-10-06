@@ -1,0 +1,5 @@
+pandas>=1.5
+matplotlib>=3.5
+reportlab>=4.0
+numpy>=1.22
+
